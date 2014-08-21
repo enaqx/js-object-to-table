@@ -1,6 +1,6 @@
 {
   "name": "js-object-to-table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JavaScript objects drawing themselves into a table using React",
   "author": "Nick Raienko <enaqxx@gmail.com>",
   "main": "server.js",
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/enaqx/js-object-to-table",
   "dependencies": {
     "koa": "0.10.x",
+    "koa-favicon": "1.1.x",
     "koa-static": "1.4.x"
   }
 }
