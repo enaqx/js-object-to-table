@@ -1,7 +1,7 @@
 js-object-to-table
 ==================
 
-JavaScript objects drawing themselves into a table
+JavaScript objects drawing themselves into a table using React
 
 Features:
  * Two classes of objects: LeftClass and RightClass.
