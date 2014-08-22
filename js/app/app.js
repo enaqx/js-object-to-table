@@ -27,3 +27,4 @@ React.renderComponent(
   Table({data: data}),
   document.getElementById('table')
 );
+

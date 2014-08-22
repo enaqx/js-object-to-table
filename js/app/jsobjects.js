@@ -57,7 +57,6 @@ var td_style_pink = { backgroundColor: "pink" };
 var td_style_pink_center = {backgroundColor: "pink", textAlign: "center"};
 var td_style_pink_right = {backgroundColor: "pink", textAlign: "right"};
 
-
 var Table = React.createClass({
   getInitialState: function() {
     return {data: this.props.data};
@@ -126,7 +125,6 @@ var Table = React.createClass({
 });
 
 React.renderComponent(
-  Table({data: data}),
+  Table(),
   document.getElementById('fancy_table')
 );
-

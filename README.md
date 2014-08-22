@@ -12,3 +12,9 @@ Features:
  * populateTable() method of conatainer object to extend/populat with the values
   from the objects.
  * All the colours and values in the table should be put there by the JS.
+
+ Using:
+  * [React for building UI](https://github.com/facebook/react)
+  * [Koa and its middleware for HTTP server](https://github.com/koajs/koa)
+  * [RequireJS as client-side module loader](https://github.com/jrburke/requirejs)
+  * [require-jsx plugin to use JSX files as RequireJS dependencies](https://github.com/seiffert/require-jsx)
