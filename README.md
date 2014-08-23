@@ -3,6 +3,8 @@ js-object-to-table
 
 JavaScript objects drawing themselves into a table using React
 
+##### [Demo](http://enaqx.github.io/js-objects-to-table.html)
+
 ##### Features:
   * Two classes of objects: LeftClass and RightClass.
   * A container object, that holds two arrays: one an array of LeftClass objects, and the other an array of RightClass objects.
