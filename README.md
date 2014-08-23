@@ -17,7 +17,7 @@ JavaScript objects drawing themselves into a table using React
 
 ##### Usage:
   * Install [node](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager) and [git](http://git-scm.com/downloads)
-  * `$ git clone https://github.com/enaqx/`
+  * `$ git clone https://github.com/enaqx/js-object-to-table`
   * `$ cd js-object-to-table`
   * `$ npm install`
   * `$ npm start`
